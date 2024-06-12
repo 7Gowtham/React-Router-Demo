@@ -6,7 +6,7 @@ import Carrer from './Carrer'
 
 function All() {
   return <>
-  <div className="container-all">
+  <div className="container">
     <FullStack />
     <DataScience />
     <CyberSecurity />

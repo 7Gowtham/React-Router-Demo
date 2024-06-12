@@ -5,7 +5,7 @@ function DataScience() {
   let ds_data = [
     {
       name: "Top 10 High Paying Non coding jobs in 2024",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-2048x1072.png"
+      image: "https://img.freepik.com/premium-photo/revenue-operations-collage_23-2150847854.jpg?w=1800"
     },
     {
       name: "12 Real World Data Science Examples: Power of Data Science",
@@ -13,11 +13,11 @@ function DataScience() {
     },
     {
       name: "Roles and Responsibilities of a Data Scientist",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4-300x169.png"
+      image: "https://img.freepik.com/premium-photo/digital-marketing-through-websites-ads-emails-social-media_1153807-2257.jpg?w=1800"
     },
     {
       name: "<strong>How long would it take to learn Data Science?</strong>",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/08/How-Long-Would-It-Take-to-Learn-Data-Science-1536x804.png"
+      image: "https://cdni.iconscout.com/illustration-pack/preview/data-science-37-84886.jpg?f=webp&w=420&modified_at=1625533412"
     }
   ]
   return <>

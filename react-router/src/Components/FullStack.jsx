@@ -14,7 +14,7 @@ function FullStack() {
     },
     {
       name: "Best Full Stack Development Project Ideas in 2024...",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg"
+      image: "https://img.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148222500.jpg?size=626&ext=jpg"
     },
     {
       name: "How long would it take to be a Full Stack Developer????",
@@ -26,15 +26,15 @@ function FullStack() {
     },
     {
       name: "10 best Database Management Systems for Software Developers",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/02/DBMS1-150x112.png"
+      image: "https://img.freepik.com/premium-vector/computer-database-analysis_18660-3848.jpg?w=1380"
     },
     {
       name: "6 Essential Prerequisites for learning React",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2021/05/react-768x402.jpg"
+      image: "https://img.freepik.com/free-vector/flat-computer-engineering-concept_23-2148152149.jpg?size=626&ext=jpg"
     },
     {
       name: "Top 10 Full Stack Developer Frameworks in 2024",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person-150x100.jpg"
+      image: "https://img.freepik.com/premium-vector/man-holding-certificate-2d-vector-isolated-illustration_151150-10226.jpg?size=626&ext=jpg"
     }
 
   ]

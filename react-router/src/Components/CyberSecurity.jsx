@@ -6,19 +6,19 @@ function CyberSecurity() {
     let cs_data = [
         {
             name: "Cyber Security vs Ethical Hacking: Top 10 Differences",
-            image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png"
+            image: "https://cdn.dribbble.com/userupload/12934344/file/original-c0ff9c64920f0b11e30229212f26a9f8.png?resize=800x600&vertical=center"
         },
         {
             name: "8 Different types of Cyber Security and Threats Involved",
-            image: "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1.png"
+            image: "https://cdn.dribbble.com/userupload/6729849/file/original-556bd1883a7097985b648ce41b94c32f.jpg?resize=640x480&vertical=center"
         },
         {
             name: "The Ultimate Roadmap CyberSecurity for Beginners",
-            image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif"
+            image: "https://cdn.dribbble.com/userupload/6672068/file/original-ccc5ad7854440cefc9f90e25d02302da.png?crop=0x0-4413x3310&resize=640x480&vertical=center"
         },
         {
           name: "The Cyber Security Surge: 5 Must have Certifications",
-          image: "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-768x402.png"
+          image: "https://cdn.dribbble.com/userupload/12720527/file/original-84176ed69e7f706b60072a48103abd4a.jpg?crop=0x0-1483x1112&resize=640x480&vertical=center"
         }
     ]
   return <>
