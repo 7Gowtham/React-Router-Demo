@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 function Navbar() {
     let [active, setActive] = useState('/')
 
-    const handleClick = (path) =>{
+    const handleClick = (path) => {
         setActive(path)
     }
 
@@ -41,6 +41,7 @@ function Navbar() {
                 </ul>
             </div>
         </nav>
+
     </>
 }
 

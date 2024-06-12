@@ -27,7 +27,7 @@ function CyberSecurity() {
       <div className='row mt-4'>
         {
           cs_data.map((e, i) => {
-            return <div className='col-md-3 mb-4'>
+            return <div className="col-sm-6 col-md-4 col-lg-3 mb-4" key={i}>
               <CyberCard cs_data={e} key={i} />
             </div>
           })

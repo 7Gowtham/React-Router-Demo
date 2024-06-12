@@ -26,7 +26,7 @@ function DataScience() {
       <div className='row justify-content-center mt-4'>
         {
           ds_data.map((e, i) => {
-            return <div className='col-md-3 mb-4'>
+            return <div className="col-sm-6 col-md-4 col-lg-3 mb-4" key={i}>
               <DSCard ds_data={e} key={i} />
             </div>
           })

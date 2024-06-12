@@ -22,7 +22,7 @@ function FullStack() {
     },
     {
       name: "How does Apache work? A detailed Introduction to Apache",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw-300x124.png"
+      image: "https://djeqr6to3dedg.cloudfront.net/repo-logos/library/httpd/live/logo.png"
     },
     {
       name: "10 best Database Management Systems for Software Developers",
@@ -36,16 +36,16 @@ function FullStack() {
       name: "Top 10 Full Stack Developer Frameworks in 2024",
       image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person-150x100.jpg"
     }
-    
+
   ]
 
   return <>
     <div className="container">
-    <h2 className="card-title mt-3">Full Stack Development</h2>
+      <h2 className="card-title mt-3">Full Stack Development</h2>
       <div className='row justify-content-center mt-4'>
         {
           fs_data.map((e, i) => {
-            return <div className='col-md-3 mb-4'>
+            return <div className="col-sm-6 col-md-4 col-lg-3 mb-4" key={i}>
               <Card fs_data={e} key={i} />
             </div>
           })
